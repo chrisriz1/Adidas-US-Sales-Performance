@@ -1,6 +1,7 @@
 # Adidas-US-Sales-Performance
 
 <ins>**Project Overview**</ins>
+
 This dashboard, created using solely Microsoft Excel, visualized Adidas sales performance across the United States. This dashboard enables dynamic analysis of product sales trends, retailer performance, and customer purchasing behavior.
 
 <ins>**Data Source**</ins>
