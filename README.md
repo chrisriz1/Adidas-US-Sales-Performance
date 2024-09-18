@@ -5,7 +5,7 @@
 This dashboard, created using solely Microsoft Excel, visualized Adidas sales performance across the United States. This dashboard enables dynamic analysis of product sales trends, retailer performance, and customer purchasing behavior.
 
 <ins>**Data Source**</ins>
-- **Dataset**: Adidas US U.S.les Data from Kaggle
+- **Dataset**: Adidas U.S. Sales Data from Kaggle
 - **Key Columns**: Sales ID, Retailer, Retailer ID, Invoice Date, Region, State, City, Product, Pricer Per Unit, Units Sold, Sales, Operating Profit, and Sales Method
 
 <ins>**Key Features**</ins>
@@ -14,11 +14,11 @@ This dashboard, created using solely Microsoft Excel, visualized Adidas sales pe
 - **Retailers**: Analyze which retailers contributed the most to sales performance
 - **States**: Identify which states had the highest and lowest sales volumes
 - **Sales Methods**: Understand how most products were purchased
-- **Product Sales Performance**: Visualizaiton to identify top-selling products and trends across different states and retailers
+- **Product Sales Performance**: Visualization to identify top-selling products and trends across different states and retailers
 
 <ins>**Visualization Technique**</ins>
 - Pivot tables and charts (bar graph, pie chart, states map) were used to create insights into product performance and operational efficiency.
-- The dashboard features a black background with white font for a sleek and professional appearance, enhancing readabilty.
+- The dashboard features a black background with white font for a sleek and professional appearance, enhancing readability.
 
 <ins>**Use Case**</ins>
 The dashboard is ideal for business stakeholders or analysts who need quick insight into Adidas sales data. It provides clarity on performance across different states and sales channels. This will lead to businesses making data-driven decisions regarding inventory management, marketing strategies, and sales forecasting. 
